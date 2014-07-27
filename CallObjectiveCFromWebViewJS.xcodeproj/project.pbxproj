@@ -21,6 +21,7 @@
 		CE0369D71985422500A5DA18 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CE0369B91985422500A5DA18 /* UIKit.framework */; };
 		CE0369DF1985422500A5DA18 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = CE0369DD1985422500A5DA18 /* InfoPlist.strings */; };
 		CE0369E11985422500A5DA18 /* CallObjectiveCFromWebViewJSTests.m in Sources */ = {isa = PBXBuildFile; fileRef = CE0369E01985422500A5DA18 /* CallObjectiveCFromWebViewJSTests.m */; };
+		CE0369EB1985443800A5DA18 /* res in Resources */ = {isa = PBXBuildFile; fileRef = CE0369EA1985443800A5DA18 /* res */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		CE0369DC1985422500A5DA18 /* CallObjectiveCFromWebViewJSTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "CallObjectiveCFromWebViewJSTests-Info.plist"; sourceTree = "<group>"; };
 		CE0369DE1985422500A5DA18 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		CE0369E01985422500A5DA18 /* CallObjectiveCFromWebViewJSTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CallObjectiveCFromWebViewJSTests.m; sourceTree = "<group>"; };
+		CE0369EA1985443800A5DA18 /* res */ = {isa = PBXFileReference; lastKnownFileType = folder; path = res; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -117,6 +119,7 @@
 				CE0369C71985422500A5DA18 /* Main.storyboard */,
 				CE0369CA1985422500A5DA18 /* ViewController.h */,
 				CE0369CB1985422500A5DA18 /* ViewController.m */,
+				CE0369EA1985443800A5DA18 /* res */,
 				CE0369CD1985422500A5DA18 /* Images.xcassets */,
 				CE0369BC1985422500A5DA18 /* Supporting Files */,
 			);
@@ -229,6 +232,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				CE0369CE1985422500A5DA18 /* Images.xcassets in Resources */,
+				CE0369EB1985443800A5DA18 /* res in Resources */,
 				CE0369C01985422500A5DA18 /* InfoPlist.strings in Resources */,
 				CE0369C91985422500A5DA18 /* Main.storyboard in Resources */,
 			);
